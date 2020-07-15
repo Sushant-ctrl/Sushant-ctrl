@@ -7,5 +7,5 @@ I am a sophomore undergraduate persuing B.tech in Electronics and Communication 
 - 😄 I inspire to make research contribututions to the current tech.
 - 💬 I like solving puzzles of all kinds.
 - 📫 If you want to connect mail me at - sushant24vnit@gmail.com
-- ⚡ Fun fact: `#` isn't called a hashtag.
+- ⚡ Fun fact: `#` Isn't called a hashtag.
 
